@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EFCodeFirstApproach.Repository\EFCodeFirstApproach.Repository.csproj" />
+    <ProjectReference Include="..\EFCodeFirstApproach.Utils\EFCodeFirstApproach.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
